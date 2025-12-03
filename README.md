@@ -1,6 +1,6 @@
 # Personal Shell
 
-A simple, lightweight command-line shell written in Zig, providing essential shell functionality with a focus on minimalism and performance.
+A simple, lightweight command-line shell written in Zig, providing essential shell functionality with a focus on minimalism.
 
 ## Features
 
