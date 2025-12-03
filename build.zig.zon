@@ -1,0 +1,9 @@
+.{
+    .name = .personal_shell,
+    .version = "0.0.1",
+    .fingerprint = 0x1dcbf4eb0d9099ee,
+    .paths = .{
+        "src",
+        "build.zig",
+    },
+}
