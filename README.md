@@ -82,12 +82,7 @@ $ exit
 
 ## Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
-
-- Reporting bugs
-- Suggesting features
-- Submitting pull requests
-- Code style and testing
+Contributions are welcome!
 
 ### Development Setup
 
